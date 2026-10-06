@@ -1,7 +1,7 @@
-# OOP Battleship: Single-Player Game Engine and GUI (Part C)
+# Java-Battleship-Game
 
 ## 💡 Overview
-This project represents the third stage of the software engineering process. The goal is to design and implement a complex, single-player version of the classic Battleship game using a clean **Java Swing GUI** and a **strong object-oriented model**. The core challenge involves separating the intricate game logic (ship placement, hit/miss tracking) from the visual presentation.
+A single-player desktop implementation of the classic Battleship game built in Java Swing. Developed with strong object-oriented design principles, the application completely decouples core game logic—including grid-based ship placement, shot execution, and hit/miss tracking—from the interactive visual presentation layer.
 
 ## 🎯 Design and Implementation Goals
 This lab demonstrates proficiency in:
